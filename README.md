@@ -1,3 +1,8 @@
+# Intro
+I’m a backend-focused developer who enjoys building systems that actually hold up under real usage. I’m more interested in how things work behind the scenes—authentication flows, API design, data consistency, and failure handling—than surface-level features. I like breaking problems down, understanding trade-offs, and writing code that’s readable, secure, and production-oriented.
+
+I’m steadily improving by building projects, revisiting core CS fundamentals, and treating learning like an engineering process rather than a checklist.
+
 # 💫 About Me:
 🚀 I'm currently working on<br>Building backend systems using Node.js and Express<br>Implementing secure authentication (JWT, refresh tokens, Redis)<br>Designing APIs with a focus on security, performance, and maintainability<br>Consistent DSA practice for interview readiness<br><br>🤝 I'm looking to collaborate on<br>Backend or full-stack projects where backend logic matters<br>Real-world systems like authentication, real-time apps, or APIs<br>Open-source projects that value clean code and system thinking<br><br>🛠️ Currently improving<br>System design and scalability decisions<br>Understanding how production systems handle load and failures<br><br>🌱 I'm currently learning<br>Backend system design fundamentals<br>Core CS subjects: Operating Systems, Computer Networks, DBMS<br>Writing cleaner, more production-ready code<br><br>💬 Ask me about<br>JWT authentication & authorization flows<br>
 Backend API design<br>Redis use cases<br>DSA preparation and backend interview basics<br><br>⚡ Fun fact<br>I care more about building reliable systems than flashy UI features
